@@ -4,3 +4,4 @@
 4.Zip Code : 10000
 5.Tel : 0120-213-2133
 6.city : BUUSAN
+7.birth : Nov
